@@ -62,7 +62,7 @@ dependencies = [
 [[package]]
 name = "avahi-sys"
 version = "0.10.0"
-source = "git+https://github.com/recoord/avahi-sys#d21b6d756b39e3c4ca23dc2af26efe3c5cadf6f7"
+source = "git+ssh://git@github.com/recoord/avahi-sys#d21b6d756b39e3c4ca23dc2af26efe3c5cadf6f7"
 dependencies = [
  "bindgen 0.69.1",
  "libc",
